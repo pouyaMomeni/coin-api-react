@@ -1,0 +1,26 @@
+.temp {
+    display: flex;
+    justify-content: center;
+}
+
+.wi-hi {
+    width: 100%;
+    height: 200px;
+}
+
+.bg-color {
+    background: #2b2d42;
+}
+
+.select {
+    border: 1px solid rgb(1, 1, 1);
+}
+
+.hi {
+    width: 10px;
+    height: 10px;
+}
+
+#box {
+    border-radius: 5%;
+}
